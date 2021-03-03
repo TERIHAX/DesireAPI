@@ -1,3 +1,5 @@
 # DesireXAPI
 A Level 6 Roblox Exploit API with **Anti-Ban**!
-Please do not try to steal this API and rename it with your desired name. It is against copyright law.
+
+**DO NOT USE THIS API, IT'S SKIDDED. I WASN'T AWARE THAT I WAS FOLLOWING A SKIDDED TUTORIAL.**
+**USE MY UPCOMING XORE API. IT'S NOT SKIDDED.**
